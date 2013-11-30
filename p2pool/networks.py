@@ -138,7 +138,7 @@ nets = dict(
         PERSIST=False,
         WORKER_PORT=19327,
         BOOTSTRAP_ADDRS='pool.maeh.org pool2.maeh.org'.split(' '),
-        ANNOUNCE_CHANNEL='#p2pool-alt',
+        ANNOUNCE_CHANNEL='#p2pool-ftc',
         VERSION_CHECK=lambda v: True,
     ),
 
